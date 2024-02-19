@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bok</title>
+<meta charset="UTF-8"/>
+</head>
+
+<body>
+<section>
+<h1>Dobar dan</h1>
+<nav>
+<button><a href="index.html">Home</a></button>
+<button><a href="familie.html">Familie</a></button>
+</nav>
+</section>
+
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+<table>
+<tr>
+<th>Why</th>
+<th>kako</th>
+<th>zasto</th>
+</tr>
+<tr>
+<td>I dont know</td>
+<td>ghjkl</td>
+<td>ghj</td>
+</tr>
+</table>
+
+</body>
+</html>
